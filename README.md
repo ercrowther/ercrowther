@@ -3,7 +3,6 @@
 <p>- 🌱 I’m currently learning <strong>Dreammaker's programming language</strong></p>
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
