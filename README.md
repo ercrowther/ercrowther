@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-- 🔭 I’m currently working on **Untitled Ninja Game**<br>
-- 🌱 I’m currently learning **Dreammaker's programming language**
+<p>- 🔭 I’m currently working on <strong>Untitled Ninja Game</strong></p>
+<p>- 🌱 I’m currently learning <strong>Dreammaker's programming language</strong></p>
 
 
 <h3 align="left">Connect with me:</h3>
