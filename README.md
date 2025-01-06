@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Evan</h1>
-<p>- 🔭 I’m currently working on <strong>Untitled Ninja Game</strong></p>
-<p>- 🌱 I’m currently learning <strong>Dreammaker's programming language</strong></p>
-
 
 <p align="left">
 </p>
