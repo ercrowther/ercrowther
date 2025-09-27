@@ -11,7 +11,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![RLua](https://img.shields.io/badge/roblox_lua-%23FF0000.svg?style=for-the-badge&logo=lua&logoColor=white)
+![RLua](https://img.shields.io/badge/RLua-%23FF0000.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ercrowther&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
