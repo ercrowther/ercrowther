@@ -12,14 +12,3 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![RLua](https://img.shields.io/badge/RLua-%23FF0000.svg?style=for-the-badge&logo=lua&logoColor=white)
-
-# 📊 Stats:
-![](https://github-readme-stats.vercel.app/api?username=ercrowther&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ercrowther&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ercrowther&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=ercrowther&theme=nord&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=ercrowther&icon=0&color=2)](https://visitcount.itsvg.in)
